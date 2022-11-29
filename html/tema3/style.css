@@ -1,0 +1,37 @@
+header{
+	text-align: center;
+	width: 100%;
+	background-color: yellow;
+}
+nav{
+	width: 25%;
+	margin-top: -1.5%;
+}
+aside{
+
+	width: 10%;
+	height: 25%;
+	border: dashed green;
+	text-align: right;
+	padding-right: 0.5%;
+	padding-bottom: 2%;
+	margin-top: -0.5%;
+}
+section{
+	width: 70%;
+	border-left: solid green;
+	padding-left: 1%;
+}
+article{
+	margin-top: -2%;
+	margin-bottom: 3%;
+}
+div.contenido{
+	display: flex;
+}
+p.fecha{
+	font-weight: bold;
+}
+footer{
+	text-align: center;
+}

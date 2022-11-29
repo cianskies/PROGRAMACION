@@ -1,0 +1,31 @@
+form{
+	border: solid black;
+	width: 60%;
+}
+p.titulo{
+
+}
+div.datos_personales{
+	display: flex;
+	width: 100%;
+
+
+}
+div.etiqueta{
+
+	border: dashed black;
+	width: 40%;
+	padding-bottom: 2%;
+	padding-top: 1%;
+}
+div.etiqueta2{
+
+	border: dashed black;
+	width: 60%;
+	padding-bottom: 2%;
+	padding-top: 1%;
+
+}
+div.adicionales{
+	width: 33%;
+}
